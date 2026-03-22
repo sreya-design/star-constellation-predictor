@@ -141,7 +141,7 @@ pip install -r requirements.txt
 
 ## Author
 
-**Sreyana Gulapati**  
+**Sreya Nagulapati**  
 Academic Project — Data Science / Machine Learning  
 
 ---
